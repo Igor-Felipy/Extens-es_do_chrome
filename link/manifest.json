@@ -1,0 +1,9 @@
+{
+    "name":"link_extension",
+    "version":"1.0",
+    "description":"redirecionar",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+}
